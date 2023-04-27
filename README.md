@@ -1,4 +1,6 @@
 # Odin Landing Page
+[Live Preview](https://devansh-baghel.github.io/odin-landing-page/)
+
 This is my solution for [TOP's landing page project](https://www.theodinproject.com/lessons/foundations-landing-page)
 
 
